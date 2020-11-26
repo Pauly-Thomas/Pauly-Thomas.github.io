@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Pauly-Thomas/Pauly-Thomas.github.io/static/css/main.9b2d5454.chunk.css",
-    "main.js": "/Pauly-Thomas/Pauly-Thomas.github.io/static/js/main.6b5e8759.chunk.js",
-    "main.js.map": "/Pauly-Thomas/Pauly-Thomas.github.io/static/js/main.6b5e8759.chunk.js.map",
-    "runtime-main.js": "/Pauly-Thomas/Pauly-Thomas.github.io/static/js/runtime-main.070e8883.js",
-    "runtime-main.js.map": "/Pauly-Thomas/Pauly-Thomas.github.io/static/js/runtime-main.070e8883.js.map",
-    "static/css/2.20aa2d7b.chunk.css": "/Pauly-Thomas/Pauly-Thomas.github.io/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.ada68f41.chunk.js": "/Pauly-Thomas/Pauly-Thomas.github.io/static/js/2.ada68f41.chunk.js",
-    "static/js/2.ada68f41.chunk.js.map": "/Pauly-Thomas/Pauly-Thomas.github.io/static/js/2.ada68f41.chunk.js.map",
-    "index.html": "/Pauly-Thomas/Pauly-Thomas.github.io/index.html",
-    "static/css/2.20aa2d7b.chunk.css.map": "/Pauly-Thomas/Pauly-Thomas.github.io/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.9b2d5454.chunk.css.map": "/Pauly-Thomas/Pauly-Thomas.github.io/static/css/main.9b2d5454.chunk.css.map",
-    "static/js/2.ada68f41.chunk.js.LICENSE.txt": "/Pauly-Thomas/Pauly-Thomas.github.io/static/js/2.ada68f41.chunk.js.LICENSE.txt",
-    "static/media/ANDALEMO.a8b962f3.TTF": "/Pauly-Thomas/Pauly-Thomas.github.io/static/media/ANDALEMO.a8b962f3.TTF",
-    "static/media/Thomas.98fd288e.jpg": "/Pauly-Thomas/Pauly-Thomas.github.io/static/media/Thomas.98fd288e.jpg",
-    "static/media/UnivPau.2763a13f.png": "/Pauly-Thomas/Pauly-Thomas.github.io/static/media/UnivPau.2763a13f.png",
-    "static/media/linkedin.043802e2.ico": "/Pauly-Thomas/Pauly-Thomas.github.io/static/media/linkedin.043802e2.ico",
-    "static/media/mail.dbd26982.ico": "/Pauly-Thomas/Pauly-Thomas.github.io/static/media/mail.dbd26982.ico",
-    "static/media/robotic2.6cef0eb9.png": "/Pauly-Thomas/Pauly-Thomas.github.io/static/media/robotic2.6cef0eb9.png",
-    "static/media/udemy.713374f7.jpg": "/Pauly-Thomas/Pauly-Thomas.github.io/static/media/udemy.713374f7.jpg"
+    "main.css": "/Pauly-Thomas.github.io/static/css/main.9b2d5454.chunk.css",
+    "main.js": "/Pauly-Thomas.github.io/static/js/main.21d7c81c.chunk.js",
+    "main.js.map": "/Pauly-Thomas.github.io/static/js/main.21d7c81c.chunk.js.map",
+    "runtime-main.js": "/Pauly-Thomas.github.io/static/js/runtime-main.d89b25fb.js",
+    "runtime-main.js.map": "/Pauly-Thomas.github.io/static/js/runtime-main.d89b25fb.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Pauly-Thomas.github.io/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ffb04d3b.chunk.js": "/Pauly-Thomas.github.io/static/js/2.ffb04d3b.chunk.js",
+    "static/js/2.ffb04d3b.chunk.js.map": "/Pauly-Thomas.github.io/static/js/2.ffb04d3b.chunk.js.map",
+    "index.html": "/Pauly-Thomas.github.io/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Pauly-Thomas.github.io/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.9b2d5454.chunk.css.map": "/Pauly-Thomas.github.io/static/css/main.9b2d5454.chunk.css.map",
+    "static/js/2.ffb04d3b.chunk.js.LICENSE.txt": "/Pauly-Thomas.github.io/static/js/2.ffb04d3b.chunk.js.LICENSE.txt",
+    "static/media/ANDALEMO.a8b962f3.TTF": "/Pauly-Thomas.github.io/static/media/ANDALEMO.a8b962f3.TTF",
+    "static/media/Thomas.98fd288e.jpg": "/Pauly-Thomas.github.io/static/media/Thomas.98fd288e.jpg",
+    "static/media/UnivPau.2763a13f.png": "/Pauly-Thomas.github.io/static/media/UnivPau.2763a13f.png",
+    "static/media/linkedin.043802e2.ico": "/Pauly-Thomas.github.io/static/media/linkedin.043802e2.ico",
+    "static/media/mail.dbd26982.ico": "/Pauly-Thomas.github.io/static/media/mail.dbd26982.ico",
+    "static/media/robotic2.6cef0eb9.png": "/Pauly-Thomas.github.io/static/media/robotic2.6cef0eb9.png",
+    "static/media/udemy.713374f7.jpg": "/Pauly-Thomas.github.io/static/media/udemy.713374f7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.070e8883.js",
+    "static/js/runtime-main.d89b25fb.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.ada68f41.chunk.js",
+    "static/js/2.ffb04d3b.chunk.js",
     "static/css/main.9b2d5454.chunk.css",
-    "static/js/main.6b5e8759.chunk.js"
+    "static/js/main.21d7c81c.chunk.js"
   ]
 }
